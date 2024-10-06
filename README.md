@@ -9,6 +9,9 @@ My two primary goals in finishing this project include, demonstrating working
 knowledge of interception calculations for air defense systems, and to just
 have some fun, I guess :P
 
+If anyone else wants to clone this repository, go for it! Make a better
+version or maybe use the code for something else!
+
 ### TO DO
 ____________________________
 * Complete observer mode
