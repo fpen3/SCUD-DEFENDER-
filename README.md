@@ -5,8 +5,12 @@ Had some free time here from my classes. I always thought it would be cool to
 dabble in a bit of OpenGL and expand my horizons a bit with C++. So, I decided
 to make a modern copy of the classic Atari 2600 game Missile Command. 
 
-### TO DO
+My two primary goals in finishing this project include, demonstrating working 
+knowledge of interception calculations for air defense systems, and to just
+have some fun I guess :P
 
+### TO DO
+____________________________
 * Complete observer mode
 * Complete interactive mode
 * Create a menu screen
