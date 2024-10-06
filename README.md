@@ -16,7 +16,7 @@ version or maybe use the code for something else!
 
 ![](https://github.com/fpen3/SCUD_DEFENDER/blob/master/SCUD-DEFENDER-.gif)
 
-### TO DO
+### TO DO:
 ____________________________
 * Complete observer mode
 * Complete interactive mode
