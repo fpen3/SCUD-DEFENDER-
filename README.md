@@ -1,5 +1,5 @@
 # SCUD DEFENDER
-##A Missile Command clone built using C++ and OpenGL!
+## A Missile Command clone built using C++ and OpenGL!
 
 Had some free time here from my classes. I always thought it would be cool to
 dabble in a bit of OpenGL and expand my horizons a bit with C++. So, I decided
