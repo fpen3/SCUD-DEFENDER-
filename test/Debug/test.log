@@ -1,9 +1,0 @@
-﻿main.obj : error LNK2019: unresolved external symbol __imp__glClear@4 referenced in function _main
-main.obj : error LNK2019: unresolved external symbol _glfwInit referenced in function _main
-main.obj : error LNK2019: unresolved external symbol _glfwTerminate referenced in function _main
-main.obj : error LNK2019: unresolved external symbol _glfwCreateWindow referenced in function _main
-main.obj : error LNK2019: unresolved external symbol _glfwWindowShouldClose referenced in function _main
-main.obj : error LNK2019: unresolved external symbol _glfwPollEvents referenced in function _main
-main.obj : error LNK2019: unresolved external symbol _glfwMakeContextCurrent referenced in function _main
-main.obj : error LNK2019: unresolved external symbol _glfwSwapBuffers referenced in function _main
-C:\Users\cmnae\source\repos\test\Debug\test.exe : fatal error LNK1120: 8 unresolved externals
