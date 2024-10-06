@@ -7,7 +7,7 @@ to make a modern copy of the classic Atari 2600 game Missile Command.
 
 My two primary goals in finishing this project include, demonstrating working 
 knowledge of interception calculations for air defense systems, and to just
-have some fun I guess :P
+have some fun, I guess :P
 
 ### TO DO
 ____________________________
