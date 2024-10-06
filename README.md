@@ -12,7 +12,7 @@ have some fun, I guess :P
 If anyone else wants to clone this repository, go for it! Make a better
 version or maybe use the code for something else!
 
-## V1.0 In action!
+### V1.0 In action!
 
 ![](https://github.com/fpen3/SCUD_DEFENDER/blob/master/SCUD-DEFENDER-.gif)
 
